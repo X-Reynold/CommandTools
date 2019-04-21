@@ -6,8 +6,6 @@
 //  Copyright © 2019 Reynold. All rights reserved.
 //
 
-import Foundation
-
 //print("Hello, World!")
 
 test()

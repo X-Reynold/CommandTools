@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "6742d6ea7d0a7923ffe5b7720a569e62"
+build_time: [1555736464, 598491000]
+inputs:
+  "/Users/xielei/Desktop/MygitProjects/CommandPro/Sources/Option.swift": [9223372036, 854775807]
+  "/Users/xielei/Desktop/MygitProjects/CommandPro/SwiftScript/SwiftScript/main.swift": [9223372036, 854775807]
